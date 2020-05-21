@@ -3,29 +3,29 @@
 [Just copy paste commands]
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ## update
-▀▀▀▀▀▀▀▀
+▀▀▀▀▀▀▀▀ 
 1. pkg update
 
 2. pkg upgrade
 
 ## Install
-▀▀▀▀▀▀▀
+▀▀▀▀▀▀▀ 
 3. pkg install figlet
 
 4. pkg install git
 
 ## Download
-▀▀▀▀▀▀▀▀▀▀
+▀▀▀▀▀▀▀▀▀▀ 
 5. git clone 
 
 ## Run
-▀▀▀▀▀▀
+▀▀▀▀▀▀ 
 6. bash req.sh
 
 7. bash c-banner.sh
 
 ## Remove
-▀▀▀▀▀▀▀▀▀
+▀▀▀▀▀▀▀▀▀ 
 ❌ bash remove.sh
 
 ▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
