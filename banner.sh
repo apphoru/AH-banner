@@ -11,7 +11,7 @@ white='\033[1;97m'
 
 #logo
 cd Data_Files/
-cat data_00 | lolcat -animate
+cat data_00 | lolcat --animate
 
 #font
 echo -e "$green "
