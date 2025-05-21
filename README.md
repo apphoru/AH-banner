@@ -3,32 +3,24 @@
 [Just copy paste commands]
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ## update
-▀▀▀▀▀▀▀▀ 
 1. pkg update
-
 2. pkg upgrade
 
 ## Install
-▀▀▀▀▀▀▀ 
 3. pkg install figlet
-
-4. pkg install git
+4. pkg install ruby
+5. pkg install git
 
 ## Download
-▀▀▀▀▀▀▀▀▀▀ 
-5. git clone 
+6. git clone https://github.com/apphoru/AH-banner
 
 ## Run
-▀▀▀▀▀▀ 
 6. bash req.sh
-
-7. bash c-banner.sh
+8. bash c-banner.sh
 
 ## Remove
-▀▀▀▀▀▀▀▀▀ 
 ❌ bash remove.sh
 
-▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃▃
 
 # Who is App horu
 
